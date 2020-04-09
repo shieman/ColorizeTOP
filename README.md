@@ -25,3 +25,7 @@ To make it working you need :
 * Colorizing.dll of course
   I put a windows version in release directory (compiled with opencv 4.2 cuda 10.2)
   
+# Thanks to
+* James Bowley for his shared opencv binaries https://jamesbowley.co.uk/
+* learnopencv.com and pyimagesearch.com for base helps
+* All people sharing on Touchdesigner forum
