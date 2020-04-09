@@ -1,9 +1,8 @@
 # ColorizeTOP
 Touchdesigner Colorizing TOP. Opencv Dnn colorizing
-
-![Cabane](https://github.com/shieman/ColorizeTOP/blob/master/Images/Cabane.jpg)
-
-![Cabane Couleur](https://github.com/shieman/ColorizeTOP/blob/master/Images/Cabane_couleur.jpg)
+BW | Color
+-- | ----
+![Cabane](https://github.com/shieman/ColorizeTOP/blob/master/Images/Cabane.jpg) | ![Cabane Couleur](https://github.com/shieman/ColorizeTOP/blob/master/Images/cabane_couleur.jpg)
 
 
 This c++ Top is made with opencv.
