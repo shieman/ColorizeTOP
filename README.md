@@ -19,4 +19,9 @@ To make it working you need :
 * Cuda 10.2 and cuDNN 7.6.5.32 installed if you want dnn gpu acceleration.
 * the machine learning models near colorizing.dll :
     - colorization_deploy_v2.prototxt
+    https://raw.githubusercontent.com/richzhang/colorization/master/colorization/models/colorization_deploy_v2.prototxt
     - colorization_release_v2.caffemodel
+    http://eecs.berkeley.edu/~rich.zhang/projects/2016_colorization/files/demo_v2/colorization_release_v2.caffemodel
+* Colorizing.dll of course
+  I put a windows version in release directory (compiled with opencv 4.2 cuda 10.2)
+  
