@@ -8,7 +8,7 @@ Touchdesigner Colorizing TOP. Opencv Dnn colorizing
 # How it works
 This c++ Top is made with opencv 4.2 dnn using Cuda 10.2. It uses machine learning model to predict colors.
 
-It's a Windows version, but you can compile with other os.
+It's a Windows version, but you can compile with other Oses, since it's just c++ and opencv (and Cuda Cudnn for GPU acceleration)
 
 Using movie files, i get an average 20fps with cuda dnn, 2 fps without.
 
