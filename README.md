@@ -26,7 +26,7 @@ To make it working you need :
     http://eecs.berkeley.edu/~rich.zhang/projects/2016_colorization/files/demo_v2/colorization_release_v2.caffemodel
 * Colorizing.dll of course
   I put a windows version in release directory (compiled with opencv 4.2 cuda 10.2)
-* I put colorizing.toe Touchdesigner to test it, with Level settings and Recording image
+* I put colorizing.toe Touchdesigner in release directory to test it, with Level settings and Recording image
   
 # Thanks to
 * James Bowley for his shared opencv binaries https://jamesbowley.co.uk/
