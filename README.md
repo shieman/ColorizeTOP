@@ -6,8 +6,10 @@ Touchdesigner Colorizing TOP. Opencv Dnn colorizing
 ![Paulilles](https://github.com/shieman/ColorizeTOP/blob/master/Images/Paulliles.jpg) | ![Paulilles Couleur](https://github.com/shieman/ColorizeTOP/blob/master/Images/Paulilles_couleur.jpg)
 
 # How it works
-This c++ Top is made with opencv 4.2 dnn using Cuda 10.2.
+This c++ Top is made with opencv 4.2 dnn using Cuda 10.2. It uses machine learning model to predict colors.
+
 It's a Windows version, but you can compile with other os.
+
 Using movie files, i get an average 20fps with cuda dnn, 2 fps without.
 
 # What you need
